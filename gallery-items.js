@@ -64,16 +64,4 @@ export default [
     },
   ];
 
-  funcrtion createImagesCardsMarkup () 
-
-//   <div class="lightbox__overlay"></div>
-
-//   <div class="lightbox__content">
-//     <img class="lightbox__image" src="" alt="" />
-//   </div>
-
-//   <button
-//     type="button"
-//     class="lightbox__button"
-//     data-action="close-lightbox"
-//   ></button>
+  
